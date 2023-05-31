@@ -1,16 +1,14 @@
-### Hi there 👋
+### BOAS VINDAS AO MEU PERFIL👋
 
-<!--
-**verdinho11111/verdinho11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+** MEU NOME E MYLENA SANCHES is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ESTOU ESTUDANDO NO ALURA
+ESTOU ME DESENVOLVENDO NA LINGUAGEM LAVASCRIPT
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VOCE PODE ENTRAR EM CONTATO COMIGO
+
+MYLENA.SERENATO@ESCOLA.PR.GOV.BR
+INSTA:MYLENA.SANCHESS7015
+
+
